@@ -1,1 +1,1 @@
-# cs32hw3
+This homework project is just implementing an insertion sort in c++, nothing too fancy. 
